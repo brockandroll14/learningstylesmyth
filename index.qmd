@@ -1,0 +1,20 @@
+---
+title: "Learning Styles Going out of Style"
+---
+
+## ~~Learning Styles~~ Learner Preferences 
+
+One of my main goals as an educator is to gain more clarity on how to stay relevant in the classroom when it comes to educational technology. I became all too overwhelmed with my digital classroom in a distance learning environment during COVID. And during week three reading I found myself thankful for the push to learn more. I came across a topic within the reading that I thought I had mastered, but new evidence is already showing me where I might be a little obsolete (in a good way). I had learned a lot about learning styles in some of my teacher preparation courses, but it was interesting to read up on how this is no longer the suggested method. “The existence of “learning styles” is a popular myth in the United States; the disproven claim that each student has a unique and preferred style of learning and that specialized instruction should be provided to each student to match their learning style” (Sawyer, p. 5) 
+
+## No Proof
+
+When learning about them, it did make logical sense to me that everyone learns differently. I find myself understanding something a little better after I get to have a more tactical experience with it. A kinesthetic learner if you will. So it makes just as much sense to me that teaching students and grouping students based on their learning styles would make more of a difference in their learning. Doing a little more research into this, I found a website that went into a little more depth about this. Linked below. “No matter how hard scientists have looked, they haven’t been able to find any good evidence for the learning styles theory. Indeed, many academics who study this for a living consider learning styles to be one of the biggest myths in education” (Patrick Carroll). And I guess this also makes sense. While the hypothesis of learning styles follows a logical pattern of styles of learning that do exist (visual, auditory, reading & writing, kinesthetic), it has not been proven that engaging students in these ways and heighting their “learning style” actually increased their learning. 
+
+
+## Further Conducted Research
+
+Linked within this article was a paper constructed by psychologists Cedar Riener and Daniel Willingham called “The Myth of Learning Styles”. I had been running under the assumption during my research that the retcon of learning styles was only recent. So I was surprised to see that this paper was published in 2010. This piece does a great job breaking down what we can view to be true from the learning styles theory. It is generally recognized that adapting to your learners and adjusting curriculum to meet their needs is a strong style of teaching. The problem is that sometimes it’s the subject that requires a different approach, not the learner. It’s hard to teach an algebra equation kinetically. “Failure to find any experimental support for matching the mode of instruction to a preferred learning style would simply leave us where we were at the end of the section above: Students have different interests, backgrounds, and abilities” (Riener and Willingham). The focus should be on how students' background and identities shape the learning environment. How does this shape the world of Ed Tech then? To me, this shows the necessary push to include technology. If we are considering technology in education and necessary steps to where students end up as learners, then “learning styles” in ed tech can’t be considered. Instead, we need to look at how the technology is being used to represent the whole student. With a focus on identity above all else. 
+
+
+```{r}
+```

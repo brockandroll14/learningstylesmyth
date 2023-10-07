@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Myth of Learning Styles"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Helpful Links
+      - href: workcited.qmd
+        text: Work Cited
+
+format:
+  html:
+    theme: 
+      light: lux
+      dark: morph
+    css: styles.css
+    toc: true
+  pdf: 
+    documentclass: report
+  docx: default
+  pptx: default
+
+
+
